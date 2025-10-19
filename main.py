@@ -22,4 +22,4 @@ for char in line:
 print(f"英文字符: {letters}")
 print(f"数字: {digits}")
 print(f"空格: {spaces}")
-print(f"其他字符: {others}")# 这个文件用于编写代码
+print(f"其他字符: {others}")
